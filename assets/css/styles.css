@@ -137,6 +137,11 @@ a {
   text-decoration: none;
 }
 
+.nav__logo img {
+  height: 50px; /* Adjust as needed */
+  width: auto;  /* Maintain aspect ratio */
+}
+
 img,
 video {
   max-width: 100%;
